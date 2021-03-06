@@ -1,0 +1,550 @@
+fileFormatVersion: 2
+guid: 2763f379e8b52a748aec6a9cf338738a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_0
+    21300002: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_1
+    21300004: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_2
+    21300006: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_3
+    21300008: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_4
+    21300010: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_5
+    21300012: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_6
+    21300014: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_7
+    21300016: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_8
+    21300018: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_9
+    21300020: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_10
+    21300022: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_11
+    21300024: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_12
+    21300026: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_13
+    21300028: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_14
+    21300030: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_15
+    21300032: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_16
+    21300034: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_17
+    21300036: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_18
+    21300038: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_19
+    21300040: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_20
+    21300042: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_21
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_0
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1270
+        width: 240
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadd9da9a208d0546932f3c4f6e5bf1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1270
+        width: 240
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77ef2f5cbca7c9459bca96d880745fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1270
+        width: 240
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ed172878e02924281c689b9a50ba92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1016
+        width: 240
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b683e88d1001e45b69559e5767b0ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1016
+        width: 240
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9499eb224051eb743a21c3ad9feebb18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1016
+        width: 240
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9d9bf633eb4a8488de2fe423cd90ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1016
+        width: 240
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccdb7efd3c653147bbe5b7605be207d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 762
+        width: 240
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9097311f0f138d44ea0e7bc08e1795f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 762
+        width: 240
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317a59bb9a2f6d64c9448d4725b6fa2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 762
+        width: 240
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae41e479c8225441be70f485c1ed7ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_10
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 762
+        width: 240
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd07e9f287ff3440b782e6a1ccf0600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 508
+        width: 240
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709364a5b0c7cd543b5d9367004a347d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 508
+        width: 240
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2209b89862edbab48a4ff19219c4606d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 508
+        width: 240
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc3f36a529edbf4f8b184506fcfe3e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_14
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 508
+        width: 240
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac4ec72b6c0a1344837b2d02430bf1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 240
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c97c049823ed5f4e96dab105abbbddd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 254
+        width: 240
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ce0a7c0b6657440bf7bee930ebe6e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 254
+        width: 240
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad34cb1a27e69c047964a55f3abb5b3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_18
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 254
+        width: 240
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d2637ae453c7341a26df08ea7edfd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 240
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25c82b7f1f8b804d8395b6005d1e11c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 240
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36036fddfbab8b4db35bb39374cdde3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_none_variant_red_x1_spawn_png_1354834237_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 240
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2dc8293b87b0224cb6fe7383d68cb2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9f83c625f3b941e4ea792ed2b91c5209
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

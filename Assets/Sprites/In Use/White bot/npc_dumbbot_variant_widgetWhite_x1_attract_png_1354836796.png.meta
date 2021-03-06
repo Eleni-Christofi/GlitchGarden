@@ -1,0 +1,1285 @@
+fileFormatVersion: 2
+guid: e0675ab83aede0f4a81d49e7c6c630be
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_0
+    21300002: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_1
+    21300004: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_2
+    21300006: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_3
+    21300008: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_4
+    21300010: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_5
+    21300012: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_6
+    21300014: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_7
+    21300016: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_8
+    21300018: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_9
+    21300020: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_10
+    21300022: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_11
+    21300024: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_12
+    21300026: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_13
+    21300028: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_14
+    21300030: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_15
+    21300032: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_16
+    21300034: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_17
+    21300036: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_18
+    21300038: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_19
+    21300040: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_20
+    21300042: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_21
+    21300044: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_22
+    21300046: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_23
+    21300048: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_24
+    21300050: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_25
+    21300052: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_26
+    21300054: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_27
+    21300056: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_28
+    21300058: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_29
+    21300060: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_30
+    21300062: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_31
+    21300064: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_32
+    21300066: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_33
+    21300068: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_34
+    21300070: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_35
+    21300072: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_36
+    21300074: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_37
+    21300076: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_38
+    21300078: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_39
+    21300080: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_40
+    21300082: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_41
+    21300084: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_42
+    21300086: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_43
+    21300088: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_44
+    21300090: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_45
+    21300092: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_46
+    21300094: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_47
+    21300096: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_48
+    21300098: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_49
+    21300100: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_50
+    21300102: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_51
+    21300104: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_52
+    21300106: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_53
+    21300108: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_54
+    21300110: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_55
+    21300112: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_56
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d9c2d14d2568547bc5fea1f9f30a5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 352
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd70b6e7de2b3c54d82c06ba7cc22720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 352
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb735a767e192004a935509326dde58d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 352
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7010cb78b490e444a04e99dcf665b78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 352
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9417d0a7edd609849bf9a40d6efcbd35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 352
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec56e35daa654a141a6e08211f9aa7b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_6
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 352
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a86b51485a72e429078d0e261854b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_7
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 352
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49aa60e8d5327bb4d98f0532abdceb17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_8
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 352
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa29a2b31b958c40b76317ea23f5ccf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_9
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 352
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3d69d04b4b2a6449468f452a85644f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_10
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 352
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc81a824e2511f4d82ac53107e3f938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_11
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 352
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419937e6cff3a944585026fd16eaed5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5098015bbdc1c478e7a20e8388077c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 264
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9d4284f9bce6e44ab56c8161a9ab76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_14
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 264
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd73ec7cb8482e42b019e0d490a4428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_15
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 264
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2434487dd4d8ff942a7980087fd13498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_16
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 264
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251c1e5ce056f6248aa9809b4fe325c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_17
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 264
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333ad5879c96b664f81a3259b94e8250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_18
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 264
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5545885073bd3479c6423e61592714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_19
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 264
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2ed3b460ac4864db1bbd4d0d28c986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_20
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 264
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1350f0dc873f34780a3f312de85551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_21
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 264
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed67536fef145434aba1ac8f1ae8556c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_22
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 264
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08c048828adc40498535358ff8c93f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_23
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 264
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17c0d842491f294ea2e059dfe23ebc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c06f074ff47df48bbfd9e726226f0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 176
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffe46a9055960e4798a522a96a6ba43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_26
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 176
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a709c9ac275642c4187088d2424a89ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_27
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 176
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b5cfa160e505a46b3ff8942ea79b2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_28
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 176
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f5703133e5dcf4e97a0b71cfbf53e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_29
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 176
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421d1e67df45b6245a21a3b789068f0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_30
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 176
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b51ad38a0e179c4cb1eb8a557b0092a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_31
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 176
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0d4abaf9279fc48bb7ce8be8f9a0a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_32
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 176
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77e20df060a6fe43a89fb6aecdc943e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_33
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 176
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d7a51626d67244d82457e9cf1b33b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_34
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 176
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854ace99542718b418f02ee38ab37390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_35
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 176
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc299f4aa950cc4f8b709f2b84b4b63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aff2a00ec50ad44f848edbc7fe60ab2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_37
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0c5d5025f9a6e4b8845b752189e8d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_38
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd5a61b70c80e94eaeae68ddefbc9c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_39
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dd35855f08961449af5175197e496c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_40
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e7184ed93437b4abd0e723a621525d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_41
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b642ca5dc93f0134f9fc28d212cda893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_42
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0081466f274ae234bb899bb0a75a807c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_43
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd378b562279bad469cae4ed9a1320c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_44
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18454e0439f1ed44cbf1343913f42914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_45
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb0392ecc4bc8d4a9a86f632afba2d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_46
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26aa2eb1c847ec408f27d72739a7772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_47
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 88
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb04723afbb43c4a94ce05a0d469bec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5a60aa55639c649b878f1f452647da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_49
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7561b4c7d12491a49b9c312ffbd89b42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_50
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc55d5090e23cb40a231a3f755d7c41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_51
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3703e1fd46f2e35489ea27874a2c474e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_52
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da48e0870ceeedb46bc85a43eb90ba57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_53
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2496f96e8ce531d41ae9a40316057064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_54
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 0
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695c9e23fd74682438bdaad9da38860b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_55
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92646e5cd0f04eb4ab11dc25bbf3b1d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_dumbbot_variant_widgetWhite_x1_attract_png_1354836796_56
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f839074ed72d89348ac59eb84f8a961d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 76874a6d850034f44825152855015311
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
